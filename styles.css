@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.nav_bar{
+	background:yellow;
+	display:flex;
+	justify-content:space-between;
+	
+}
+.name{
+	margin-left: 20px;
+}
+.p_info{
+
+	display:flex;
+	width:300px;
+	margin-right:20px;
+	justify-content:space-between;
+}
+
+	
+}
